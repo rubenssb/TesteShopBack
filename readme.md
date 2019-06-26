@@ -7,8 +7,7 @@ Esta avaliação tem como objetivo, avaliar suas abtidões técnicas e proativas
   - A aplicação deverá ser feita com o uso de qualquer framework, exceto ***jQuery***;
   - O candidato(a) deverá enviar o link do repositório GIT, com o código do seu teste;
   - O candidato(a) não poderá usar qualquer framework css para a eleboração do estilo e estrutura da aplicação;
- 
-Salvo essas condições, o teste deverá ser entregue em até ***10 dias***.
+
 
 A todos os participantes, Boa Sorte.
 
